@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding:0px;
+}
+.span1{
+    display: inline;
+ }
+ 
+ #icon1{
+     width: 40px;
+     height: 40px;
+     border-radius: 1000px;
+     box-shadow: 5px 5px 10px rgb(70, 5, 5);
+ }
+ ul li a{
+     margin-left: 30px;
+     font-size: 1rem;
+     
+ }
+ 
+   #close-icon{
+     height: 20px;
+     border-radius: 200px;
+   }
+
+#mainDiv{
+    background-color: red;
+    height: 1300px;
+    padding: 10px;
+
+}
+#mainDiv button{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    border: 1px solid blue;
+}
+#mainDiv button:hover{
+    background-color: blue;
+}
+#div1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+#div1 div{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:20px;
+    background-color:black;
+    color:white;
+    margin-bottom:20px;
+    width:400px;
+    border-radius:10px;
+}
+#div2{
+    display: flex;
+justify-content: center;
+text-align: center;
+
+}
+#div2 div{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:20px;
+    background-color:black;
+    color:white;
+    margin-bottom:20px;
+    width:400px;
+    border-radius:10px;
+  
+}
+#div3{
+    display: flex;
+justify-content: center;
+text-align: center;
+
+}
+#div3 div{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:20px;
+    background-color:black;
+    color:white;
+    margin-bottom:20px;
+    width:400px;
+    border-radius:10px;
+}
+
+/* footer starts here */
+footer{
+    background-color: black;
+    height: 50px;
+   padding: 0px;
+   margin: 0px;
+}
+footer p{
+    color: white;
+    text-align: right;
+    margin-right: 30px;
+}
+/* footer ends here */
+

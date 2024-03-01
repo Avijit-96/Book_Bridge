@@ -1,0 +1,67 @@
+
+
+
+
+#registration{
+    background-color: rgb(76, 145, 185);
+    width: 400px;
+    height: 400px;
+    color: white;
+    position: relative;
+    top: 60px;
+    left: 1100px;
+    border-radius: 20px;
+    padding: 20px;
+   }
+   #registration h3{
+    text-align: center;
+   }
+   .txtspan{
+    color: white;
+   }
+ 
+/* home ends here */
+#banner{
+    background-image: url("photo/GorarBanner.jpg");
+    opacity: 0.8;
+    height: 900px;
+    width: 100%;
+  }
+  
+  .MyContainer{
+    background-color: rgb(58, 58, 58);
+    opacity: 0.4;
+    
+    padding: 100px;
+    width: 50%;
+    height: 300px;
+    border-radius: 10px;
+   position: relative;
+   top: 280px;
+   left: 20px;
+  
+   text-align: center;
+   
+  }
+  #div2{
+  
+     position: absolute;
+     left: 8%;
+     top: 450px;
+     color: white;
+     text-align: center;
+     
+  }
+  #div2 h1{
+    font-size: 3.2rem;
+    
+  }
+  #div2 button{
+    width: 220px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+  
+  
+/* banner ends here */

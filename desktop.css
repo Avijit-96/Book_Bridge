@@ -1,0 +1,252 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0%;
+    margin: 0px;
+    background: linear-gradient(360deg,rgb(110, 109, 109),rgb(94, 86, 86));
+    color: black;
+
+}
+.span1{
+   display: inline;
+}
+
+#icon1{
+    width: 40px;
+    height: 40px;
+    border-radius: 1000px;
+    box-shadow: 5px 5px 10px rgb(70, 5, 5);
+}
+ul li a{
+    margin-left: 30px;
+    font-size: 1rem;
+    
+}
+
+  #close-icon{
+    height: 20px;
+    border-radius: 200px;
+  }
+/* nav ends here */
+/* banner starts here */
+  #banner{
+    background-image: url("photo/GorarBanner.jpg");
+    opacity: 0.8;
+    height: 900px;
+    width: 100%;
+  }
+  
+  .MyContainer{
+    background-color: rgb(58, 58, 58);
+    opacity: 0.4;
+    
+    padding: 100px;
+    width: 750px;
+    height: 320px;
+    border-radius: 10px;
+   position: relative;
+   top: 280px;
+   text-align: center;
+   
+  }
+  #div2{
+     position: absolute;
+     left: 390px;
+     top: 450px;
+     color: white;
+     text-align: center;
+     
+  }
+  #div2 h1{
+    font-size: 3.2rem;
+    color: white;
+    
+  }
+  #div2 button{
+    width: 220px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+   
+
+  
+/* banner ends here */
+
+
+/* newly starts here*/
+#NewLy{
+    background: linear-gradient(360deg,rgb(197, 193, 193),rgb(199, 195, 195),rgb(94, 86, 86));
+    padding: 30px;
+    margin-top: 1px;
+    text-align: center;
+}
+#NewLy h2{
+    color: white;
+    /* background-color: rgb(10, 5, 5); */
+    
+    padding: 10px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#OnlineIntercommunity .p1{
+     /* background-color: red; */
+     padding: 10px;
+     font-size: 1.5rem;
+     font-weight: bolder;
+     text-align: center;
+}
+
+#OnlineIntercommunity p{
+    height: 100px;
+    text-align: justify;
+
+}
+/* newly ends here*/
+
+
+/* online part starts here */
+#MyContainer12{
+    text-align: center;
+    margin-top: 100px;
+ 
+    
+}
+#MyContainer12 h2{
+    margin-bottom: 20px;
+    /* background-color: red; */
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+    color: white;
+}
+#hr1{
+    background-color: black;
+    color: black;
+    width: 60%;
+    height: 1px;
+    display: block;
+    margin: 0px auto;
+}
+#onlineBook{
+    
+    padding: 10px;
+    
+}
+#online1{
+    background-color: orange;
+    width: 27%;
+    height: 187px;
+    float: left;
+}
+#online1 img{
+    border-radius: 2px;
+}
+#online2 {
+   background: linear-gradient(60deg,orange,rgb(201, 153, 63),white);
+    width: 73%;
+    height: 200px;
+    float: right;
+}
+
+#online2 p{
+    padding: 20px;
+    text-align: justify;
+    font-size: 1.3rem;
+}
+
+
+#online3{
+    margin-top: 10px;
+    background: linear-gradient(60deg,white,rgb(201, 153, 63),orange);
+    width: 73%;
+    height: 191px;
+    float: left;
+}
+#online3 p{
+
+    padding: 20px;
+    text-align: justify;
+    font-size: 1.3rem;
+}
+#online4{
+    margin-top: 10px;
+    /* background-color: blue; */
+    width: 27%;
+    height: 190px;
+    float: right;
+}
+#online4 img{
+    border-radius: 2px;
+    height: 190px;
+}
+
+#online6{
+    margin-top: 10px;
+    background: linear-gradient(60deg,white,rgb(201, 153, 63),orange);
+    width: 27%;
+    height: 190px;
+    margin-top: 10px;
+  
+}
+#online6 img{
+    margin-top: 11px;
+    height: 190px;
+    border-radius: 10px;
+}
+#online7{
+    margin-top: 10px;
+    background: linear-gradient(60deg,orange,rgb(201, 153, 63),white);
+    width: 73%;
+    height: 191px;
+    float: right;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    
+
+}
+#online7 p{
+
+    padding: 20px;
+    text-align: justify;
+    font-size: 1.3rem;
+}
+/* online part ends here */
+
+/* footer starts here */
+footer{
+    background: linear-gradient(360deg,rgb(68, 68, 68),rgb(46, 46, 46));
+    height: 180px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+footer div{
+    margin-left: 20px;
+ 
+}
+#div202{
+    /* background-color: red; */
+    width: 70%;
+    text-align: left;
+    height:170px;
+    padding: 10px;
+}
+#div203{
+ 
+    text-align: left;
+    height:170px;
+    padding: 10px;
+}
+#div203 img{
+    border-radius: 50px;
+}
+
+/* footer ends here */
+
+
